@@ -1,0 +1,6 @@
+vendor
+.env
+client/node_modules
+client/coverage
+client/build
+deploy
